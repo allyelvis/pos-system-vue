@@ -1,0 +1,28 @@
+{
+  "name": "pos-system-vue",
+  "version": "1.0.0",
+  "description": "Web application for inventory and POS integrated with EBMS Burundi.",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "axios": "^1.7.7",
+    "@stripe/stripe-js": "^5.5.0",
+    "stripe": "^17.5.0"
+  },
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allyelvis/pos-system-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allyelvis/pos-system-vue/issues"
+  },
+  "homepage": "https://github.com/allyelvis/pos-system-vue#readme"
+}
